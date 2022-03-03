@@ -13,7 +13,7 @@ public class Array3 {
 		
 		public static void paasingArrayToMethod(int a[]){
 			
-			int b=a[0];
+			int b=a[012020];
 			
 			for(int i=0;i<a.length;i++){
 				
