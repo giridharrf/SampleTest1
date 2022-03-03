@@ -1,0 +1,44 @@
+package com.app;
+
+public class Static6 {
+	
+	int x=10;//global var
+
+	static int y=5;//static variable
+	
+	
+	//non static method
+	
+	public void a(){
+		
+		int z=10;
+		
+		System.out.println(z);
+		
+		
+	}
+	
+	static int b =6;
+	
+	
+	public static void b(){
+		
+		int a=5;
+		
+		System.out.println(a);
+	}
+	
+	
+	public static void main(String[] args) {
+		Static6 s6 = new Static6();
+		
+		s6.a();
+		//s6.b();
+		System.out.println(s6.b);//corret but not appropriate
+		System.out.println(Static6.b);//correct and appropriate
+		System.out.println(b);//completely correct
+	}
+	
+	
+
+}
