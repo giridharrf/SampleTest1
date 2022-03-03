@@ -44,7 +44,7 @@ public class Assertion1 {
 		Thread.sleep(3000);
 		
 		Assert.assertTrue(driver.findElement(By.id("username-error")).isDisplayed());
-		System.out.println("true validation successfully validated.");
+		System.out.println("true validation successfully validated by me.");
 		
 				
 	}
