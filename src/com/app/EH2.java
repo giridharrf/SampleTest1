@@ -5,7 +5,7 @@ public class EH2 {
 		try{
 		int c=10/0;
 		}catch(Exception e){
-			
+			System.out.println("Hello...");
 		}
 	}
 	
