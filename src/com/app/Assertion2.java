@@ -15,7 +15,7 @@ public class Assertion2 {
 		
 		String  expectedTitle="Googles";
 		
-		String actualTitle="Gooooogle";
+		String actualTitle="Gooooogles";
 		try{
 		
 		Assert.assertEquals(expectedTitle, actualTitle,"Actual and Exdpected are not matching");

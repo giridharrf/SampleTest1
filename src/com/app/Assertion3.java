@@ -10,7 +10,7 @@ public class Assertion3 {
 		
 		String expectedresult="Google";
 		
-		String  actualVal="Gooooogle";
+		String  actualVal="Gooooogleaa";
 		
 		try{
 			
