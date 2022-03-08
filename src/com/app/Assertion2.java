@@ -13,7 +13,7 @@ public class Assertion2 {
 		
 		
 		
-		String  expectedTitle="Google";
+		String  expectedTitle="Googles";
 		
 		String actualTitle="Gooooogle";
 		try{
