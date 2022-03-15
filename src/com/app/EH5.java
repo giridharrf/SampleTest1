@@ -9,6 +9,7 @@ public class EH5 {
 			int a=Integer.parseInt(x);
 		} catch (NumberFormatException e) {
 			System.out.println(e);
+			System.out.println("hELLO SELINIUM..");
 		}
 		
 	}
