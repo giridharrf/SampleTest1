@@ -1,6 +1,5 @@
 package com.app;
 
-import org.apache.jasper.tagplugins.jstl.core.Catch;
 
 public class EH10 {
 	public static void eligible(int age){
