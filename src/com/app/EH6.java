@@ -12,6 +12,7 @@ public class EH6 {
 		}
 		
 		System.out.println("Exception handeled");
+		System.out.println("Exception Happened..");
 	}
 
 }
