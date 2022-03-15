@@ -9,7 +9,7 @@ public static void main(String[] args) {
 		// TODO Auto-generated catch block
 		e.printStackTrace();
 	}finally {
-		System.out.println("it will exxexute always Non sense");
+		System.out.println("it will exxexute always Non ");
 	}
 	
 }
